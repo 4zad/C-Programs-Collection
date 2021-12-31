@@ -3,7 +3,7 @@
 This app was created in April 2021, as a final project in my first term in the CPA program at Seneca College.
 
 
-#Instructions, given by the Prof, for each milestone are listed below:
+# Instructions, given by the Prof, for each milestone are listed below:
 
 ## PART 1:
 
